@@ -136,7 +136,17 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # VENEZUELAN GOVERNMENT DEMANDS
 
-**Vice President Delcy Rodriguez** has issued a demand for **proof of life** and the location of President Nicolás Maduro after Trump's announcement.
+**Vice President Delcy Rodriguez:** "We do not know where President Nicolás Maduro and First Lady Cilia Flores are. **We demand proof of life.**"
+
+---
+
+# LATEST VERIFIED DEVELOPMENTS
+
+- **FAA** banned all flights over Venezuela due to "potentially dangerous situation"
+- **US Embassy in Colombia** issued stay-at-home order for Americans in Venezuela
+- **Senate Armed Services Committee** was NOT informed in advance of military action
+- **Colombia** deployed additional troops along border with Venezuela
+- **Polish PM Donald Tusk:** "US strikes on Venezuela will have consequences around the world"
 
 ---
 
@@ -152,12 +162,14 @@ Expected to provide full details on the operation and Maduro's capture.
 
 ---
 
-# CONFIRMED KILLED
+# KEY FIGURES STATUS
 
-| Name | Position | How |
-|------|----------|-----|
-| **Vladimir Padrino Lopez** | Defense Minister | **US airstrike on his home** |
-| Several senior officials | Maduro administration | Strikes (unconfirmed details) |
+| Name | Position | Status |
+|------|----------|--------|
+| **Nicolas Maduro** | President | **CAPTURED** (per Trump) - VP demands proof of life |
+| **Cilia Flores** | First Lady | **CAPTURED** (per Trump) |
+| **Vladimir Padrino Lopez** | Defense Minister | **UNCLEAR** - conflicting reports (initially reported killed, later made statement) |
+| **Delcy Rodriguez** | Vice President | Active - demanding proof of life for Maduro |
 
 ---
 
