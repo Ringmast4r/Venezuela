@@ -91,6 +91,11 @@ President Donald Trump announced that Venezuelan President **Nicolás Maduro and
 - Had stated: "Maduro will leave power, whether negotiated or not"
 - Dedicated her Nobel Prize to Trump
 - Supports US military pressure against Maduro
+- **2025 Nobel Peace Prize** - "For tireless work promoting democratic rights for the people of Venezuela"
+- **Spent over a year in hiding** after opposition defeated Maduro in 2024 election
+- **December 2025:** US Special Forces (Grey Bull Rescue Foundation, Bryan Stern) extracted her from Venezuela to Oslo for Nobel ceremony
+- **On US military action:** "I will welcome more and more pressure so that Maduro understands that he has to go"
+- **On Trump:** "He is a champion of freedom in this hemisphere"
 
 ## Transition Challenges:
 - Constitution may need to be rewritten
@@ -107,6 +112,23 @@ President Donald Trump announced that Venezuelan President **Nicolás Maduro and
 **LOCATION: Mar-a-Lago**
 
 Expected to provide full details on the operation and Maduro's capture.
+
+---
+
+# US POLITICAL REACTIONS
+
+| Official | Party | Statement |
+|----------|-------|-----------|
+| **Sen. Ruben Gallego (AZ)** | Democrat | "This war is illegal. Second unjustified war in my lifetime." (Iraq veteran) |
+| **Sen. Brian Schatz (HI)** | Democrat | Criticized Trump's decision to initiate military operation |
+
+**Note:** Trump acted while Congress is in recess (resumes Jan 5-7)
+
+---
+
+# VENEZUELAN GOVERNMENT DEMANDS
+
+**Vice President Delcy Rodriguez** has issued a demand for **proof of life** and the location of President Nicolás Maduro after Trump's announcement.
 
 ---
 
@@ -128,6 +150,18 @@ Expected to provide full details on the operation and Maduro's capture.
 |------|----------|-----|
 | **Vladimir Padrino Lopez** | Defense Minister | **US airstrike on his home** |
 | Several senior officials | Maduro administration | Strikes (unconfirmed details) |
+
+---
+
+# OPERATION SOUTHERN SPEAR - TOTAL CASUALTIES
+
+| Metric | Count |
+|--------|-------|
+| Boat Strikes | 35+ |
+| People Killed | 115+ |
+| Civilian Deaths | Many (primarily fishers) |
+
+*Source: The Guardian reports governments and families say many dead were civilians—primarily fishers.*
 
 ---
 

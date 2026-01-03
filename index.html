@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Military Strikes on Venezuela - January 3, 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: #2d2d2d;
+            color: #e4e4e4;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background: linear-gradient(90deg, #dc2626 0%, #991b1b 100%);
+            padding: 30px;
+            text-align: center;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(220, 38, 38, 0.3);
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .breaking {
+            background: #fbbf24;
+            color: #000;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            animation: pulse 2s infinite;
+            text-align: center;
+        }
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(251, 191, 36, 0.5); }
+            50% { box-shadow: 0 0 40px rgba(251, 191, 36, 0.8); }
+        }
+        .breaking h2 {
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+        .section {
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            border-left: 4px solid #3b82f6;
+        }
+        .section h2 {
+            color: #60a5fa;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 10px;
+        }
+        .section h3 {
+            color: #93c5fd;
+            margin: 15px 0 10px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background: rgba(0,0,0,0.3);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        th {
+            background: rgba(59, 130, 246, 0.3);
+            font-weight: 600;
+        }
+        tr:hover {
+            background: rgba(255,255,255,0.05);
+        }
+        .status-captured {
+            background: #16a34a;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .status-killed {
+            background: #dc2626;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .status-confirmed {
+            background: #2563eb;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 4px;
+        }
+        .status-destroyed {
+            background: #ea580c;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 4px;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        ul li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        ul li::before {
+            content: "►";
+            position: absolute;
+            left: 0;
+            color: #3b82f6;
+        }
+        blockquote {
+            background: rgba(59, 130, 246, 0.1);
+            border-left: 4px solid #3b82f6;
+            padding: 15px 20px;
+            margin: 15px 0;
+            font-style: italic;
+            border-radius: 0 8px 8px 0;
+        }
+        .timeline {
+            border-left: 3px solid #3b82f6;
+            padding-left: 30px;
+            margin-left: 15px;
+        }
+        .timeline-item {
+            position: relative;
+            margin-bottom: 20px;
+        }
+        .timeline-item::before {
+            content: "";
+            position: absolute;
+            left: -36px;
+            top: 5px;
+            width: 12px;
+            height: 12px;
+            background: #3b82f6;
+            border-radius: 50%;
+        }
+        .timeline-date {
+            color: #fbbf24;
+            font-weight: bold;
+        }
+        .special-forces {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .force-card {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.2), rgba(37, 99, 235, 0.1));
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid rgba(59, 130, 246, 0.3);
+        }
+        .force-card h4 {
+            color: #60a5fa;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+        .key-facts {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .fact-box {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .fact-box .label {
+            color: #9ca3af;
+            font-size: 0.9rem;
+        }
+        .fact-box .value {
+            color: #fbbf24;
+            font-size: 1.3rem;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+        .sources {
+            columns: 2;
+            column-gap: 30px;
+        }
+        .sources a {
+            color: #60a5fa;
+            text-decoration: none;
+            display: block;
+            padding: 5px 0;
+        }
+        .sources a:hover {
+            color: #93c5fd;
+            text-decoration: underline;
+        }
+        .status-tracker {
+            background: linear-gradient(135deg, #065f46, #047857);
+            padding: 25px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        .status-tracker h2 {
+            color: #fff;
+            border-bottom-color: #34d399;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #9ca3af;
+            margin-top: 40px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+        @media (max-width: 768px) {
+            h1 { font-size: 1.8rem; }
+            .breaking h2 { font-size: 1.5rem; }
+            .sources { columns: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>US MILITARY STRIKES ON VENEZUELA</h1>
+            <p style="font-size: 1.2rem;">January 3, 2026 - BREAKING NEWS</p>
+        </header>
+
+        <div class="breaking">
+            <h2>MADURO CAPTURED BY DELTA FORCE</h2>
+            <p style="font-size: 1.2rem;"><strong>President Nicolas Maduro and his wife have been CAPTURED and flown to the United States</strong></p>
+        </div>
+
+        <div class="section">
+            <h2>Trump's Announcement</h2>
+            <blockquote>
+                "The United States of America has successfully carried out a large scale strike against Venezuela and its leader, President Nicolas Maduro, who has been, along with his wife, captured and flown out of the Country"
+            </blockquote>
+
+            <div class="key-facts">
+                <div class="fact-box">
+                    <div class="label">Maduro Status</div>
+                    <div class="value">CAPTURED</div>
+                </div>
+                <div class="fact-box">
+                    <div class="label">Capture Unit</div>
+                    <div class="value">Delta Force</div>
+                </div>
+                <div class="fact-box">
+                    <div class="label">Extraction</div>
+                    <div class="value">160th SOAR</div>
+                </div>
+                <div class="fact-box">
+                    <div class="label">Reward</div>
+                    <div class="value">$50 MILLION</div>
+                </div>
+            </div>
+
+            <h3>Charges Maduro Faces in US Court:</h3>
+            <table>
+                <tr><th>Charge</th><th>Minimum</th><th>Maximum</th></tr>
+                <tr><td>Narco-terrorism conspiracy</td><td>20 years</td><td>LIFE</td></tr>
+                <tr><td>Cocaine importing conspiracy</td><td>10 years</td><td>LIFE</td></tr>
+                <tr><td>Machine guns/weapons during crimes</td><td>30 years</td><td>N/A</td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Special Forces Units That Captured Maduro</h2>
+            <div class="special-forces">
+                <div class="force-card">
+                    <h4>Delta Force (1st SFOD-D)</h4>
+                    <ul>
+                        <li><strong>Role:</strong> Primary capture unit</li>
+                        <li><strong>Location:</strong> Landed in Southern Caracas</li>
+                        <li><strong>Status:</strong> Extracted Maduro from bunker</li>
+                        <li><strong>History:</strong> Killed Osama bin Laden</li>
+                    </ul>
+                </div>
+                <div class="force-card">
+                    <h4>160th SOAR "Night Stalkers"</h4>
+                    <ul>
+                        <li><strong>Role:</strong> Helicopter insertion/extraction</li>
+                        <li><strong>Aircraft:</strong> MH-47 Chinook, MH-60 Black Hawk</li>
+                        <li><strong>History:</strong> Flew bin Laden raid in 2011</li>
+                        <li><strong>Motto:</strong> "Night Stalkers Don't Quit"</li>
+                    </ul>
+                </div>
+                <div class="force-card">
+                    <h4>Navy SEALs</h4>
+                    <ul>
+                        <li><strong>Role:</strong> Support operations</li>
+                        <li>Considered for Maduro mission (NYT)</li>
+                        <li>Likely involved in island seizures</li>
+                    </ul>
+                </div>
+                <div class="force-card">
+                    <h4>MARSOC / Green Berets</h4>
+                    <ul>
+                        <li><strong>MARSOC:</strong> Seized Caribbean islands</li>
+                        <li><strong>Green Berets:</strong> Ground combat in Caracas</li>
+                        <li>Engaged Venezuelan military</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3>How The Capture Happened:</h3>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <span class="timeline-date">2:00 AM</span> - Airstrikes destroy air defenses, military bases
+                </div>
+                <div class="timeline-item">
+                    <span class="timeline-date">Cyber attacks</span> - Disable radar and communications
+                </div>
+                <div class="timeline-item">
+                    <span class="timeline-date">Insertion</span> - 160th SOAR helicopters insert Delta Force into Caracas
+                </div>
+                <div class="timeline-item">
+                    <span class="timeline-date">Location</span> - Delta Force locates Maduro in bunker under Simón Bolívar Airport
+                </div>
+                <div class="timeline-item">
+                    <span class="timeline-date">Capture</span> - Breach and capture - Maduro and wife taken
+                </div>
+                <div class="timeline-item">
+                    <span class="timeline-date">Extraction</span> - Night Stalker helicopters fly them out
+                </div>
+                <div class="timeline-item">
+                    <span class="timeline-date">Complete</span> - Maduro now in US custody
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Targets Attacked (Per Colombian President Petro)</h2>
+            <table>
+                <tr><th>#</th><th>Target</th><th>Type</th><th>Status</th></tr>
+                <tr><td>1</td><td>Fuerte Tiuna</td><td>Largest Military Complex</td><td><span class="status-destroyed">FIRE BURNING</span></td></tr>
+                <tr><td>2</td><td>La Carlota Airport</td><td>Military Airfield</td><td><span class="status-destroyed">BOMBED</span></td></tr>
+                <tr><td>3</td><td>Federal Legislative Palace</td><td>Parliament Building</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>4</td><td>Mountain military garrison</td><td>Catia la Mar</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>5</td><td>Airport</td><td>El Hatillo</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>6</td><td>F-16 Air Base No. 3</td><td>Barquisimeto</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>7</td><td>Private airport</td><td>Charallave</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>8</td><td>Suspected cocaine factory</td><td>Unknown</td><td><span class="status-destroyed">BOMBED</span></td></tr>
+                <tr><td>9</td><td>La Guaira Port</td><td>Port Infrastructure</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>10</td><td>Gas transportation</td><td>Caracas</td><td><span class="status-confirmed">HIT</span></td></tr>
+                <tr><td>11</td><td>Communications</td><td>Multiple locations</td><td><span class="status-confirmed">STRUCK</span></td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Confirmed Killed</h2>
+            <table>
+                <tr><th>Name</th><th>Position</th><th>How</th></tr>
+                <tr>
+                    <td><strong>Vladimir Padrino Lopez</strong></td>
+                    <td>Defense Minister</td>
+                    <td><span class="status-killed">US airstrike on his home</span></td>
+                </tr>
+                <tr>
+                    <td>Several senior officials</td>
+                    <td>Maduro administration</td>
+                    <td>Strikes (details unconfirmed)</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Current Military Control</h2>
+            <table>
+                <tr><th>Location</th><th>Status</th></tr>
+                <tr><td>Caracas International Airport</td><td><span class="status-captured">UNDER US CONTROL</span></td></tr>
+                <tr><td>Fuerte Tiuna Military Base</td><td><span class="status-destroyed">DESTROYED</span></td></tr>
+                <tr><td>Northern Caribbean Islands</td><td><span class="status-captured">US MARINES IN CONTROL</span></td></tr>
+                <tr><td>Caracas Streets</td><td>Street fighting subsiding</td></tr>
+                <tr><td>Miraflores Palace</td><td>Status unclear</td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>US Forces Deployed</h2>
+            <table>
+                <tr><th>Asset</th><th>Details</th></tr>
+                <tr><td>USS Gerald R. Ford</td><td>Aircraft carrier (world's most advanced)</td></tr>
+                <tr><td>5 Guided-missile destroyers</td><td>Including Bainbridge, Mahan, Winston S. Churchill</td></tr>
+                <tr><td>2 Guided-missile cruisers</td><td>Caribbean Sea</td></tr>
+                <tr><td>Amphibious assault ship</td><td>Troop transport</td></tr>
+                <tr><td>F-35 Stealth Fighters</td><td>Deployed to Puerto Rico</td></tr>
+                <tr><td>CV-22 Ospreys</td><td>Special forces transport</td></tr>
+                <tr><td>MQ-9 Reaper drones</td><td>Strike/surveillance</td></tr>
+                <tr><td><strong>TOTAL</strong></td><td><strong>~15,000 US personnel in region</strong></td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>International Reactions</h2>
+            <h3>Condemned the Attack:</h3>
+            <ul>
+                <li><strong>Cuba</strong> - Díaz-Canel: "Criminal attack... Homeland or death. We will win."</li>
+                <li><strong>China</strong> - Xi Jinping's envoy was in Caracas hours before attack</li>
+                <li><strong>Russia</strong> - "Piracy and banditry" (embassy not damaged)</li>
+                <li><strong>Iran</strong> - "Violation of UN Charter"</li>
+                <li><strong>Turkey</strong> - Erdogan adviser: "Banditry should not go unpunished"</li>
+                <li><strong>Colombia</strong> - Petro called for UN/OAS meeting</li>
+                <li><strong>Brazil</strong> - Lula rejected "foreign intervention"</li>
+                <li><strong>UK/France</strong> - Halted intelligence sharing, consider strikes illegal</li>
+            </ul>
+            <h3>Supported US:</h3>
+            <ul>
+                <li><strong>Venezuelan Opposition</strong> - Machado: "Grateful to Trump"</li>
+                <li><strong>Dominican Republic</strong> - Provided base access</li>
+                <li><strong>El Salvador, Guyana, Panama, Argentina, Ecuador, Paraguay</strong></li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>US Political Reactions</h2>
+            <table>
+                <tr><th>Official</th><th>Party</th><th>Statement</th></tr>
+                <tr>
+                    <td><strong>Sen. Ruben Gallego (AZ)</strong></td>
+                    <td>Democrat</td>
+                    <td><span class="status-killed">"This war is illegal. Second unjustified war in my lifetime."</span> (Iraq veteran)</td>
+                </tr>
+                <tr>
+                    <td><strong>Sen. Brian Schatz (HI)</strong></td>
+                    <td>Democrat</td>
+                    <td>Criticized Trump's decision to initiate military operation</td>
+                </tr>
+            </table>
+            <p style="margin-top: 15px;"><strong>Note:</strong> Trump acted while Congress is in recess (resumes Jan 5-7)</p>
+        </div>
+
+        <div class="section">
+            <h2>Venezuelan Government Demands</h2>
+            <blockquote>
+                <strong>Vice President Delcy Rodriguez</strong> has issued a demand for <strong>proof of life</strong> and the location of President Nicolás Maduro after Trump's announcement.
+            </blockquote>
+        </div>
+
+        <div class="section">
+            <h2>María Corina Machado - Nobel Peace Prize Winner 2025</h2>
+            <ul>
+                <li><strong>2025 Nobel Peace Prize</strong> - "For tireless work promoting democratic rights for the people of Venezuela"</li>
+                <li><strong>Spent over a year in hiding</strong> after opposition defeated Maduro in 2024 election</li>
+                <li><strong>December 2025:</strong> US Special Forces (Grey Bull Rescue Foundation, Bryan Stern) extracted her from Venezuela to Oslo for Nobel ceremony</li>
+                <li><strong>On US military action:</strong> "I will welcome more and more pressure so that Maduro understands that he has to go"</li>
+                <li><strong>On Trump:</strong> "He is a champion of freedom in this hemisphere"</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>What Happens Next</h2>
+            <ul>
+                <li><strong>María Corina Machado</strong> - Expected to become Vice President</li>
+                <li><strong>Edmundo González</strong> - Opposition president-elect to take power</li>
+                <li><strong>Maduro</strong> - Will face trial in Manhattan (narco-terrorism charges)</li>
+                <li><strong>Trump Press Conference</strong> - 11:00 AM ET at Mar-a-Lago</li>
+                <li><strong>UN Security Council</strong> - Emergency meeting likely</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Countries Bombed by Trump (2025-2026)</h2>
+            <table>
+                <tr><th>#</th><th>Country</th><th>Date</th></tr>
+                <tr><td>1</td><td>Somalia</td><td>February 1, 2025</td></tr>
+                <tr><td>2</td><td>Yemen</td><td>March 15, 2025</td></tr>
+                <tr><td>3</td><td>Iran</td><td>June 22, 2025</td></tr>
+                <tr><td>4</td><td>Syria</td><td>December 19, 2025</td></tr>
+                <tr><td>5</td><td>Nigeria</td><td>December 25, 2025</td></tr>
+                <tr><td>6</td><td><strong>Venezuela</strong></td><td><strong>January 3, 2026</strong></td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Historical Comparison</h2>
+            <table>
+                <tr><th>Operation</th><th>Target</th><th>Outcome</th></tr>
+                <tr><td>Panama 1989</td><td>Noriega</td><td>Captured, tried in US</td></tr>
+                <tr><td>Iraq 2003</td><td>Saddam Hussein</td><td>Captured (later), executed</td></tr>
+                <tr><td>Libya 2011</td><td>Gaddafi</td><td>Killed</td></tr>
+                <tr><td><strong>Venezuela 2026</strong></td><td><strong>Maduro</strong></td><td><strong>Captured, flown to US</strong></td></tr>
+            </table>
+            <p style="margin-top: 15px;"><strong>Significance:</strong> Largest US military action in Caribbean since Cuban Missile Crisis (1962). First capture of a sitting foreign president by US special forces in modern era.</p>
+        </div>
+
+        <div class="status-tracker">
+            <h2>STATUS TRACKER</h2>
+            <table>
+                <tr><th>Item</th><th>Status</th></tr>
+                <tr><td>Nicolás Maduro</td><td><span class="status-captured">CAPTURED - IN US CUSTODY</span></td></tr>
+                <tr><td>Cilia Flores (wife)</td><td><span class="status-captured">CAPTURED - IN US CUSTODY</span></td></tr>
+                <tr><td>Defense Minister Padrino Lopez</td><td><span class="status-killed">KILLED</span></td></tr>
+                <tr><td>Caracas Airport</td><td><span class="status-captured">US CONTROLLED</span></td></tr>
+                <tr><td>Venezuelan Military</td><td>COLLAPSING</td></tr>
+                <tr><td>Opposition</td><td>PREPARING TO TAKE POWER</td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Operation Southern Spear - Total Casualties</h2>
+            <div class="key-facts">
+                <div class="fact-box">
+                    <div class="label">Boat Strikes</div>
+                    <div class="value">35+</div>
+                </div>
+                <div class="fact-box">
+                    <div class="label">People Killed</div>
+                    <div class="value">115+</div>
+                </div>
+                <div class="fact-box">
+                    <div class="label">Civilian Deaths</div>
+                    <div class="value">Many (fishers)</div>
+                </div>
+            </div>
+            <p><em>Source: The Guardian reports governments and families say many dead were civilians—primarily fishers.</em></p>
+        </div>
+
+        <div class="section">
+            <h2>Sources (80+)</h2>
+            <div class="sources">
+                <a href="https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/" target="_blank">CBS News Live Updates</a>
+                <a href="https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions" target="_blank">Al Jazeera LIVE BLOG</a>
+                <a href="https://www.nbcnews.com/world/latin-america/live-blog/venezuela-explosions-trump-maduro-live-updates-rcna251053" target="_blank">NBC News Live Updates</a>
+                <a href="https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26" target="_blank">CNN Live Updates</a>
+                <a href="https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv" target="_blank">Bloomberg</a>
+                <a href="https://www.twz.com/news-features/explosions-ring-out-across-caracas-as-u-s-special-ops-helicopters-fly-over-city" target="_blank">The War Zone</a>
+                <a href="https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e" target="_blank">AP News</a>
+                <a href="https://www.nytimes.com/2026/01/03/world/americas/venezuela-caracas-explosions.html" target="_blank">New York Times</a>
+                <a href="https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports" target="_blank">Fox News</a>
+                <a href="https://www.cfr.org/article/operation-southern-spear-us-military-campaign-targeting-venezuela" target="_blank">Council on Foreign Relations</a>
+                <a href="https://en.wikipedia.org/wiki/2026_United_States_strikes_in_Venezuela" target="_blank">Wikipedia - 2026 Strikes</a>
+                <a href="https://www.france24.com/en/americas/20260103-multiple-explosions-aircraft-sounds-reported-in-venezuela-caracas-maduro-trump" target="_blank">France 24</a>
+                <a href="https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela" target="_blank">NPR</a>
+                <a href="https://www.washingtonpost.com/world/2026/01/03/us-venezuela-strikes-trump-maduro/" target="_blank">Washington Post</a>
+                <a href="https://www.cnbc.com/2026/01/03/trump-us-operation-captured-venezuela-president-nicolas-maduro.html" target="_blank">CNBC</a>
+                <a href="https://www.japantimes.co.jp/news/2026/01/03/world/us-venezuela-trump-maduro-captured/" target="_blank">Japan Times</a>
+                <a href="https://zeenews.india.com/world/live-updates/venezuela-airstrike-results-2026-live-us-strikes-caracas-maduro-trump-casualties-targets-3002810.html" target="_blank">Zee News India</a>
+                <a href="https://www.thegatewaypundit.com/2026/01/breaking-huge-explosions-heard-across-caracas-venezuela-videos/" target="_blank">Gateway Pundit</a>
+            </div>
+        </div>
+
+        <footer>
+            <p><strong>Document compiled in real-time during the operation</strong></p>
+            <p>Last Updated: January 3, 2026</p>
+            <p>70+ sources compiled</p>
+        </footer>
+    </div>
+</body>
+</html>
