@@ -1,19 +1,41 @@
+<div align="center">
+
+<img width="100%" alt="VENEZUELA" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:27754A&height=220&section=header&text=VENEZUELA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20%7C%20HTML%20%7C%20News%20%7C%20Archive&descSize=16&descAlignY=58"/>
+
+`Web` [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML) `News` `Archive` - Breaking-news landing page covering the January 2026 US strikes on Venezuela, with sourced updates. Static site on GitHub Pages.
+
+[Project website / live view](https://ringmast4r.github.io/Venezuela/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27754A&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Breaking-news+landing+page+covering+the+January+2026+US+strikes+on...%3BWeb+%2F+HTML+%2F+News+%2F+Archive)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-Venezuela-27754A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/Venezuela)
+[![Format](https://img.shields.io/badge/Format-HTML-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/Venezuela/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/Venezuela?style=flat-square&color=27754A)](https://github.com/Ringmast4r/Venezuela/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/Venezuela?style=flat-square&color=27754A)](https://github.com/Ringmast4r/Venezuela/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/Venezuela?style=flat-square&color=27754A)](https://github.com/Ringmast4r/Venezuela)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/Venezuela?style=flat-square&color=27754A)](https://github.com/Ringmast4r/Venezuela/commits/main)
+
+</div>
+
+---
+
 # US MILITARY STRIKES ON VENEZUELA
-## January 3, 2026 - BREAKING NEWS
+<a id="january-3-2026---breaking-news"></a>
+## `> january_3_2026___breaking_news`
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ringmast4r.Venezuela)
-![Forks](https://img.shields.io/github/forks/Ringmast4r/Venezuela?style=social)
-![Stars](https://img.shields.io/github/stars/Ringmast4r/Venezuela?style=social)
-![Watchers](https://img.shields.io/github/watchers/Ringmast4r/Venezuela?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/Venezuela)
 
-## [VIEW LIVE PAGE](https://ringmast4r.github.io/Venezuela/)
+<a id="view-live-pagehttpsringmast4rgithubiovenezuela"></a>
+## `> view_live_page`
 
 ---
 
 # 🚨 MADURO CAPTURED BY DELTA FORCE 🚨
 
-## TRUMP ANNOUNCES: MADURO AND WIFE CAPTURED, FLOWN OUT OF VENEZUELA
+<a id="trump-announces-maduro-and-wife-captured-flown-out-of-venezuela"></a>
+## `> trump_announces_maduro_and_wife_captured_flown_out_of_venezuela`
 
 President Donald Trump announced that Venezuelan President **Nicolás Maduro and his wife have been CAPTURED BY US SPECIAL FORCES** and **flown out of the country** following a "large scale strike" by the United States.
 
@@ -49,14 +71,16 @@ President Donald Trump announced that Venezuelan President **Nicolás Maduro and
 
 # SPECIAL FORCES UNITS THAT CAPTURED MADURO
 
-## Delta Force (1st SFOD-D) - PRIMARY CAPTURE UNIT
+<a id="delta-force-1st-sfod-d---primary-capture-unit"></a>
+## `> delta_force_1st_sfod_d___primary_capture_unit`
 - **Role:** Direct action mission to capture Maduro
 - **Location:** Landed in Southern Caracas
 - **Status:** Successfully extracted Maduro from bunker
 - **History:** Same unit that killed Osama bin Laden (with SEAL Team 6)
 - **Base:** Fort Bragg, North Carolina
 
-## 160th Special Operations Aviation Regiment "Night Stalkers"
+<a id="160th-special-operations-aviation-regiment-night-stalkers"></a>
+## `> 160th_special_operations_aviation_regiment_night_stalkers`
 - **Role:** Helicopter insertion and extraction
 - **Aircraft Used:**
   - **MH-47 Chinook** - confirmed over Caracas (video evidence)
@@ -65,22 +89,26 @@ President Donald Trump announced that Venezuelan President **Nicolás Maduro and
 - **Motto:** "Night Stalkers Don't Quit"
 - **Spotted:** In Caribbean since October 2025 on MV Ocean Trader
 
-## Navy SEALs
+<a id="navy-seals"></a>
+## `> navy_seals`
 - **Role:** Support operations
 - **NYT reported** SEALs were considered for Maduro mission
 - Likely involved in island seizures
 
-## Marine Corps Special Operations (MARSOC)
+<a id="marine-corps-special-operations-marsoc"></a>
+## `> marine_corps_special_operations_marsoc`
 - **Role:** Seized Venezuelan Caribbean islands
 - **Location:** Northern approaches to Venezuela
 - Operating on Venezuelan territory
 
-## Army Special Forces (Green Berets)
+<a id="army-special-forces-green-berets"></a>
+## `> army_special_forces_green_berets`
 - **Role:** Ground combat support
 - **Location:** Caracas streets
 - Engaged Venezuelan military
 
-## How The Capture Happened:
+<a id="how-the-capture-happened"></a>
+## `> how_the_capture_happened`
 1. **2:00 AM** - Airstrikes destroy air defenses, military bases
 2. **Cyber attacks** disable radar and communications
 3. **160th SOAR helicopters** insert Delta Force into Caracas
@@ -93,7 +121,8 @@ President Donald Trump announced that Venezuelan President **Nicolás Maduro and
 
 # WHAT HAPPENS NEXT - TRANSITION OF POWER
 
-## María Corina Machado (Nobel Peace Prize 2025)
+<a id="maría-corina-machado-nobel-peace-prize-2025"></a>
+## `> maría_corina_machado_nobel_peace_prize_2025`
 - Expected to become **Vice President** under opposition president-elect
 - Plans to return to Venezuela immediately
 - Had stated: "Maduro will leave power, whether negotiated or not"
@@ -105,7 +134,8 @@ President Donald Trump announced that Venezuelan President **Nicolás Maduro and
 - **On US military action:** "I will welcome more and more pressure so that Maduro understands that he has to go"
 - **On Trump:** "He is a champion of freedom in this hemisphere"
 
-## Transition Challenges:
+<a id="transition-challenges"></a>
+## `> transition_challenges`
 - Constitution may need to be rewritten
 - Power-sharing arrangements needed
 - Avoiding punitive measures against Maduro loyalists
@@ -187,7 +217,8 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # OPERATION SUMMARY
 
-## THIS WAS A REGIME CHANGE OPERATION
+<a id="this-was-a-regime-change-operation"></a>
+## `> this_was_a_regime_change_operation`
 
 - **DELTA FORCE LANDED** in Southern Caracas - GROUND COMBAT
 - **GUN BATTLES / SHOOTOUTS** between US and Venezuelan forces
@@ -232,14 +263,16 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # REPORTED CASUALTIES (UNCONFIRMED)
 
-## High-Value Targets
+<a id="high-value-targets"></a>
+## `> high_value_targets`
 | Name | Position | Status | Source |
 |------|----------|--------|--------|
 | Vladimir Padrino Lopez | Defense Minister | **REPORTEDLY KILLED** | Multiple sources (UNCONFIRMED) |
 | Several senior officials | Maduro administration | **REPORTEDLY KILLED** | Pravda (UNCONFIRMED) |
 | Nicolás Maduro | President | **WHEREABOUTS UNKNOWN** | NYT |
 
-## Padrino Lopez Details
+<a id="padrino-lopez-details"></a>
+## `> padrino_lopez_details`
 - **Conflicting reports** on location during attack:
   - Some say US airstrike hit his home in Caracas
   - Al Jazeera reports he was at Fuerte Tiuna Air Base
@@ -250,11 +283,13 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # MADURO'S BUNKER (REPORTED)
 
-## Location
+<a id="location"></a>
+## `> location`
 - Under **Simón Bolívar International Airport** in Maiquetía
 - Direct connection to presidential hangar for air escape
 
-## Specifications (per former Trump official Marshall Billingslea)
+<a id="specifications-per-former-trump-official-marshall-billingslea"></a>
+## `> specifications_per_former_trump_official_marshall_billingslea`
 | Feature | Details |
 |---------|---------|
 | Capacity | 150 people for 4 months |
@@ -265,7 +300,8 @@ Expected to provide full details on the operation and Maduro's capture.
 | Oxygen system | 25 days independent supply |
 | Escape route | Direct to presidential hangar |
 
-## Current Status
+<a id="current-status"></a>
+## `> current_status`
 - **Maduro reportedly hiding in bunker "like a rat"**
 - Government has NOT confirmed
 
@@ -285,32 +321,38 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # COMPLETE TIMELINE
 
-## January 2025
+<a id="january-2025"></a>
+## `> january_2025`
 - Trump signs Executive Order 14157 directing State Dept to label drug cartels as Foreign Terrorist Organizations
 - US Navy announces "Operation Southern Spear" for integrating robotic/autonomous systems
 
-## February 2025
+<a id="february-2025"></a>
+## `> february_2025`
 - Trump administration designates Tren de Aragua, MS-13, and six Mexico-based groups as Foreign Terrorist Organizations
 
-## August 2025
+<a id="august-2025"></a>
+## `> august_2025`
 - US begins naval buildup in southern Caribbean
 - USS Iwo Jima and Amphibious Ready Group deployed
 - Trump directs armed forces to use military force against Latin American drug cartels
 
-## September 2025
+<a id="september-2025"></a>
+## `> september_2025`
 - **September 2**: First boat strike kills 11 people on alleged Venezuelan drug boat
 - US military begins executing airstrikes on vessels in Caribbean Sea
 - Venezuela orders "Independence Plan 200" military response mechanism
 - Venezuela shows off Russian fighter jets in Caribbean military exercise
 
-## October 2025
+<a id="october-2025"></a>
+## `> october_2025`
 - Strikes expand to Eastern Pacific Ocean
 - USS Gravely arrives in Trinidad and Tobago (Oct 26)
 - US expresses interest in temporary military radar base in Grenada
 - Defense Secretary Hegseth orders USS Gerald R. Ford to Caribbean
 - **October 8**: Senate resolution requiring congressional approval FAILS 51-48
 
-## November 2025
+<a id="november-2025"></a>
+## `> november_2025`
 - **November 6**: Senate votes against requiring congressional approval for Venezuela strikes
 - **November 11**: USS Gerald R. Ford carrier strike group arrives - 15,000 US personnel in region
 - **November 13**: Operation formally named "Operation Southern Spear" by Hegseth
@@ -322,7 +364,8 @@ Expected to provide full details on the operation and Maduro's capture.
 - Argentina, Ecuador, Paraguay show political support
 - **November 26**: Dominican Republic grants US access to San Isidro Air Base
 
-## December 2025
+<a id="december-2025"></a>
+## `> december_2025`
 - **December 16**: US lists Gulf Clan (Colombia's largest armed criminal group) as FTO
 - **December 17**: Trump announces naval blockade of Venezuela
 - **December 17**: Trump delivers national address (no mention of Venezuela)
@@ -336,7 +379,8 @@ Expected to provide full details on the operation and Maduro's capture.
 - **By December 31**: 115+ killed in 35+ strikes on 36 vessels
 - US oil enforcement cuts Venezuelan exports by **76%**
 
-## January 2026
+<a id="january-2026"></a>
+## `> january_2026`
 
 ### January 1
 - Venezuela detains several Americans
@@ -384,12 +428,14 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # WEAPONS & FORCES DEPLOYED
 
-## Confirmed
+<a id="confirmed"></a>
+## `> confirmed`
 - **MQ-9 Reaper drones** - confirmed via missile fragment analysis
 - Drone-launched missiles
 - **160th Special Operations Aviation Regiment (SOAR) MH-47 Chinook helicopters**
 
-## Ground Forces (REPORTED - Multiple Sources)
+<a id="ground-forces-reported---multiple-sources"></a>
+## `> ground_forces_reported___multiple_sources`
 - **DELTA FORCE (1st SFOD-D)** - Landed in Southern Caracas
 - **SHOOTING BATTLE** at Delta Force landing site
 - **US ARMY SPECIAL FORCES** - Engaged in combat operations
@@ -398,11 +444,13 @@ Expected to provide full details on the operation and Maduro's capture.
 - **GUN BATTLES** between US forces and Venezuelan military in Caracas
 - **MISSION TYPE:** Possibly targeted operation to arrest/eliminate Maduro & officials
 
-## Helicopters (CONFIRMED)
+<a id="helicopters-confirmed"></a>
+## `> helicopters_confirmed`
 - **160th SOAR MH-47 Chinooks** - Confirmed over Caracas (video)
 - **MH-60 Black Hawks** - Likely present (The War Zone)
 
-## US Forces in Region (Operation Southern Spear)
+<a id="us-forces-in-region-operation-southern-spear"></a>
+## `> us_forces_in_region_operation_southern_spear`
 | Asset | Details |
 |-------|---------|
 | USS Gerald R. Ford | Aircraft carrier (world's most advanced) |
@@ -429,7 +477,8 @@ Expected to provide full details on the operation and Maduro's capture.
 | 5 | Nigeria | December 25, 2025 | ISIS targets |
 | 6 | **Venezuela** | **January 3, 2026** | **ONGOING** |
 
-## Strike Planning
+<a id="strike-planning"></a>
+## `> strike_planning`
 - Originally planned for **Christmas Day (Dec 25)** - postponed:
   - Nigeria ISIS strikes took precedence
   - Weather conditions delayed further
@@ -441,7 +490,8 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # CUMULATIVE CASUALTIES
 
-## Operation Southern Spear (Sept 2025 - Jan 2, 2026)
+<a id="operation-southern-spear-sept-2025---jan-2-2026"></a>
+## `> operation_southern_spear_sept_2025___jan_2_2026`
 | Metric | Count |
 |--------|-------|
 | Boat strikes | 35+ (on 36 vessels) |
@@ -449,12 +499,14 @@ Expected to provide full details on the operation and Maduro's capture.
 | Dec 31, 2025 alone | 5 killed |
 | September 2 first strike | 11 killed |
 
-## January 3, 2026 Strikes
+<a id="january-3-2026-strikes"></a>
+## `> january_3_2026_strikes`
 - **CASUALTY COUNT NOT YET CONFIRMED**
 - Defense Minister Padrino Lopez reportedly killed (UNCONFIRMED)
 - Several senior officials reportedly killed (UNCONFIRMED)
 
-## Disputed Nature of Deaths
+<a id="disputed-nature-of-deaths"></a>
+## `> disputed_nature_of_deaths`
 - The Guardian: Many killed were **civilians - primarily fishers**
 - AP: Dead included "fisherman, motorcycle taxi driver, laborers, two low-level career criminals"
 - Most were first-time crew members, not cartel leaders
@@ -464,7 +516,8 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # OFFICIAL RESPONSES
 
-## Venezuela
+<a id="venezuela"></a>
+## `> venezuela`
 
 **President Nicolás Maduro:**
 - **STATUS: WHEREABOUTS UNKNOWN** (per NYT)
@@ -489,7 +542,8 @@ Expected to provide full details on the operation and Maduro's capture.
 - Called purpose of invasion: "seizure of strategic resources, oil and mineral wealth"
 - "Forcefully undermine Venezuela's political independence"
 
-## United States
+<a id="united-states"></a>
+## `> united_states`
 
 **White House:**
 - **ATTACK CONFIRMED** (per American media)
@@ -515,7 +569,8 @@ Expected to provide full details on the operation and Maduro's capture.
 
 # INTERNATIONAL REACTIONS
 
-## Supporting Venezuela
+<a id="supporting-venezuela"></a>
+## `> supporting_venezuela`
 
 ### Cuba - President Miguel Díaz-Canel
 > "Cuba condemns and urgently demands a response from the international community to the criminal attack by the United States on Venezuela."
@@ -572,7 +627,8 @@ Posted on X:
 - Called on UN to reduce tensions
 - Invoked Estrada Doctrine (non-interference)
 
-## Supporting US / Neutral
+<a id="supporting-us--neutral"></a>
+## `> supporting_us__neutral`
 
 ### Venezuelan Opposition - María Corina Machado
 - **SUPPORTS THE STRIKES**
@@ -592,7 +648,8 @@ Posted on X:
 - Paraguay (political support, designated Cartel de los Soles as FTO)
 - Trinidad and Tobago (hosted US troops)
 
-## Critical of US
+<a id="critical-of-us"></a>
+## `> critical_of_us`
 
 ### United Kingdom
 - **HALTED INTELLIGENCE SHARING** - considers strikes illegal
@@ -615,23 +672,27 @@ Posted on X:
 
 # OIL & ECONOMIC IMPACT
 
-## US Enforcement Effects
+<a id="us-enforcement-effects"></a>
+## `> us_enforcement_effects`
 - Venezuelan oil exports cut by **76%**
 - 800,000+ barrels/day removed from global markets
 - Oil prices jumped on tanker seizure news
 - Brent crude: +0.8% to $62.35/barrel
 - WTI: rose to $58.46
 
-## Tanker Seizures
+<a id="tanker-seizures"></a>
+## `> tanker_seizures`
 - Multiple oil tankers seized
 - More tankers turning away from Venezuela
 - Naval quarantine on sanctioned vessels
 
-## CITGO
+<a id="citgo"></a>
+## `> citgo`
 - US federal court ordered sale of PdV-owned CITGO
 - To satisfy outstanding legal claims
 
-## EU Sanctions
+<a id="eu-sanctions"></a>
+## `> eu_sanctions`
 - Extended December 2025 through January 2027
 - Citing "persistent actions undermining democracy"
 
@@ -672,14 +733,16 @@ Posted on X:
 
 # LATIN AMERICA DIVIDED
 
-## Left-Leaning (Critical of US)
+<a id="left-leaning-critical-of-us"></a>
+## `> left_leaning_critical_of_us`
 - Colombia (Petro)
 - Mexico (Sheinbaum)
 - Brazil (Lula)
 - Nicaragua
 - Cuba
 
-## Right-Leaning (Supporting US)
+<a id="right-leaning-supporting-us"></a>
+## `> right_leaning_supporting_us`
 - Argentina
 - Ecuador
 - Paraguay
@@ -702,18 +765,21 @@ Posted on X:
 
 # UN SECURITY COUNCIL
 
-## December 17, 2025
+<a id="december-17-2025"></a>
+## `> december_17_2025`
 - Venezuela requests emergency session
 - Cites "US aggression", expects "armed attack"
 
-## December 23, 2025
+<a id="december-23-2025"></a>
+## `> december_23_2025`
 - Emergency briefing held
 - Russia/China supported Venezuela
 - Nicaragua: "Their fight is our fight"
 - US Ambassador Waltz: US doesn't recognize Maduro
 - No concrete action taken
 
-## January 3, 2026
+<a id="january-3-2026"></a>
+## `> january_3_2026`
 - Venezuela calling for new emergency meeting
 - Colombia calling for immediate OAS/UN meeting
 - Cuba demanding international response
@@ -722,7 +788,8 @@ Posted on X:
 
 # SOURCES (70+)
 
-## Live Updates / Blogs
+<a id="live-updates--blogs"></a>
+## `> live_updates__blogs`
 - [Al Jazeera LIVE BLOG](https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions)
 - [NBC News Live Updates](https://www.nbcnews.com/world/latin-america/live-blog/venezuela-explosions-trump-maduro-live-updates-rcna251053)
 - [CBS News Live Updates](https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/)
@@ -732,7 +799,8 @@ Posted on X:
 - [Zee News India Live](https://zeenews.india.com/world/live-updates/venezuela-airstrike-results-2026-live-us-strikes-caracas-maduro-trump-casualties-targets-3002810.html)
 - [Newsweek Live](https://www.newsweek.com/trump-nation-address-agenda-venezuela-economy-polling-live-updates-11229928)
 
-## Major News Coverage
+<a id="major-news-coverage"></a>
+## `> major_news_coverage`
 - [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 - [New York Times](https://www.nytimes.com/2026/01/03/world/americas/venezuela-caracas-explosions.html)
 - [CNN](https://www.cnn.com/2026/01/03/americas/venezuela-explosions-intl-hnk)
@@ -744,7 +812,8 @@ Posted on X:
 - [France 24](https://www.france24.com/en/americas/20260103-multiple-explosions-aircraft-sounds-reported-in-venezuela-caracas-maduro-trump)
 - [Britannica](https://www.britannica.com/event/2025-US-Strikes-on-Venezuelan-Vessels)
 
-## Military/Defense Coverage
+<a id="militarydefense-coverage"></a>
+## `> militarydefense_coverage`
 - [The War Zone - Special Ops Helicopters](https://www.twz.com/news-features/explosions-ring-out-across-caracas-as-u-s-special-ops-helicopters-fly-over-city)
 - [The War Zone - MQ-9 Reaper evidence](https://www.twz.com/air/missile-fragments-add-to-evidence-mq-9-reaper-drone-carried-out-venezuela-strike)
 - [Military.com](https://www.military.com/daily-news/2025/12/19/look-us-militarys-unusually-large-force-near-venezuela.html)
@@ -752,15 +821,18 @@ Posted on X:
 - [SOFREP](https://cms.sofrep.com/news/the-shadow-war-off-venezuelas-coast-how-u-s-special-operators-are-quietly-shaping-operation-southern-spear/)
 - [DefenseScoop](https://defensescoop.com/2025/11/14/hegseth-announces-operation-southern-spear-after-20th-us-strike-against-alleged-narco-terrorists/)
 
-## Think Tanks
+<a id="think-tanks"></a>
+## `> think_tanks`
 - [Council on Foreign Relations](https://www.cfr.org/article/operation-southern-spear-us-military-campaign-targeting-venezuela)
 - [Atlantic Council](https://www.atlanticcouncil.org/blogs/new-atlanticist/facing-the-threat-of-us-strikes-maduro-has-requested-russias-help-he-shouldnt-expect-much/)
 - [Stimson Center](https://www.stimson.org/2025/a-war-in-venezuela-would-not-solve-latin-americas-drug-and-dictator-problems/)
 
-## Russian Sources
+<a id="russian-sources"></a>
+## `> russian_sources`
 - [Izvestia - Zakharova statement](https://en.iz.ru/en/2020219/2026-01-03/zakharova-announced-statement-russian-foreign-ministry-connection-us-attack-venezuela)
 
-## Wikipedia
+<a id="wikipedia"></a>
+## `> wikipedia`
 - [2026 Venezuelan explosions](https://en.wikipedia.org/wiki/2026_Venezuelan_explosions)
 - [Operation Southern Spear](https://en.wikipedia.org/wiki/Operation_Southern_Spear)
 - [US Strikes on Drug Traffickers](https://en.wikipedia.org/wiki/United_States_strikes_on_alleged_drug_traffickers_during_Operation_Southern_Spear)
@@ -798,7 +870,8 @@ Posted on X:
 
 # ANALYSIS
 
-## Why This Is Happening
+<a id="why-this-is-happening"></a>
+## `> why_this_is_happening`
 - Trump administration accuses Maduro of leading drug cartel
 - US demands return of "land, oil rights"
 - Operation Southern Spear anti-narcotics campaign since September
@@ -806,14 +879,16 @@ Posted on X:
 - Tren de Aragua gang designated as FTO
 - "Maduro regime" designated as FTO
 
-## Scale of Operation
+<a id="scale-of-operation"></a>
+## `> scale_of_operation`
 - Largest US military buildup in Caribbean since Cuban Missile Crisis (1962)
 - 15,000 US personnel deployed
 - Aircraft carrier, F-35s, multiple destroyers
 - 115+ killed in boat strikes before land attack
 - 11+ facilities struck in one night
 
-## What Happens Next
+<a id="what-happens-next"></a>
+## `> what_happens_next`
 - **MADURO CAPTURED** - Now in US custody, will face trial in Manhattan
 - **TRUMP PRESS CONFERENCE** - 11:00 AM ET at Mar-a-Lago
 - **TRANSITION OF POWER** - Machado/González to take control
@@ -826,7 +901,8 @@ Posted on X:
 - Humanitarian situation developing
 - Venezuelan military surrendering or resisting in pockets
 
-## Type of Operation
+<a id="type-of-operation"></a>
+## `> type_of_operation`
 This was a **FULL-SCALE REGIME CHANGE OPERATION**:
 - Airstrikes destroyed military capability
 - Special Forces captured leadership
@@ -838,7 +914,8 @@ This was a **FULL-SCALE REGIME CHANGE OPERATION**:
 
 # FINAL SUMMARY
 
-## January 3, 2026 - A Historic Day
+<a id="january-3-2026---a-historic-day"></a>
+## `> january_3_2026___a_historic_day`
 
 The United States executed a full-scale military operation against Venezuela, resulting in:
 
@@ -879,3 +956,11 @@ The United States executed a full-scale military operation against Venezuela, re
 **Document compiled in real-time during the operation.**
 **Location: C:\Users\Squir\OneDrive\WW3**
 **Last Updated: January 3, 2026**
+
+---
+
+<div align="center">
+
+<img width="100%" alt="VENEZUELA footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:27754A,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20ARCHIVE&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
